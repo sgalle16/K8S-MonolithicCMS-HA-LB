@@ -53,6 +53,7 @@ El sistema fue diseñado para cumplir con los siguientes requisitos funcionales 
   - **Mantenibilidad:** Uso de herramientas de orquestación de Kubernetes para simplificar el despliegue, la actualización y la gestión del ciclo de vida de todas las aplicaciones, servicios y contenedores.
 
 # 2. Diseño de Alto Nivel y Arquitectura
+![Telematica(11)](https://github.com/sgalle16/K8S-MonolithicCMS-LB-NFS/assets/90360301/f6fedcb4-c19d-411b-b00d-e01da935b731)
 
 El sistema está diseñado para ser resiliente, escalable y seguro:
 
